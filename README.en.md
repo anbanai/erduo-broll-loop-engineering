@@ -10,6 +10,13 @@
 
 </div>
 
+> [!IMPORTANT]
+> **This project is no longer maintained.**
+>
+> There will be no further releases, bug fixes, or compatibility updates. The source code, documentation, and [past releases](https://github.com/erduo1998-cell/erduo-broll-loop-engineering/releases) remain public and available to use.
+>
+> For motion graphics in new talking-head videos, see [Agent Motion](https://github.com/erduo1998-cell/agent-motion#start).
+
 ## Making motion graphics for your own talking-head videos? Start with Agent Motion
 
 **If the introduction video brought you here and you want motion graphics for your own talking-head videos, we recommend [Agent Motion](https://github.com/erduo1998-cell/agent-motion#start).**
