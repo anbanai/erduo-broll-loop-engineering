@@ -15,6 +15,13 @@
 
 </div>
 
+> [!IMPORTANT]
+> **本项目已停止维护。**
+>
+> 今后不再发布新版本、修复缺陷或提供兼容性更新。源码、文档与[历史发布](https://github.com/erduo1998-cell/erduo-broll-loop-engineering/releases)继续公开，供查阅和使用。
+>
+> 如果你要为新的口播视频制作动效，可以使用 [Agent Motion](https://github.com/erduo1998-cell/agent-motion/blob/main/README.zh-CN.md#start)。
+
 ## 只想给自己的口播视频加动效？建议从 Agent Motion 开始
 
 **如果你是看了介绍视频过来的，想为自己的口播视频制作动效，建议直接使用 [Agent Motion](https://github.com/erduo1998-cell/agent-motion/blob/main/README.zh-CN.md#start)。**

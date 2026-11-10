@@ -10,6 +10,13 @@
 
 </div>
 
+> [!IMPORTANT]
+> **このプロジェクトのメンテナンスは終了しました。**
+>
+> 今後、新しいリリースや不具合の修正、互換性の更新は行いません。ソースコード、ドキュメント、[過去のリリース](https://github.com/erduo1998-cell/erduo-broll-loop-engineering/releases)は引き続き公開し、参照・利用できます。
+>
+> 新しいトーク動画のモーション制作には [Agent Motion](https://github.com/erduo1998-cell/agent-motion/blob/main/README.ja.md#start) をご利用ください。
+
 ## 自分のトーク動画にモーションを付けたい方は Agent Motion へ
 
 **紹介動画を見て、自分のトーク動画にモーションを付けたいと思った方には、[Agent Motion](https://github.com/erduo1998-cell/agent-motion/blob/main/README.ja.md#start) をおすすめします。**

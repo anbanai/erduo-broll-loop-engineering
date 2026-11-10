@@ -10,6 +10,13 @@
 
 </div>
 
+> [!IMPORTANT]
+> **이 프로젝트의 유지보수가 종료되었습니다.**
+>
+> 앞으로 새 버전, 버그 수정, 호환성 업데이트는 제공하지 않습니다. 소스 코드, 문서, [이전 릴리스](https://github.com/erduo1998-cell/erduo-broll-loop-engineering/releases)는 계속 공개되어 참고하거나 사용할 수 있습니다.
+>
+> 새 토크 영상에 모션 그래픽을 만들려면 [Agent Motion](https://github.com/erduo1998-cell/agent-motion#start)을 참고하세요.
+
 ## 내 토크 영상에 모션을 넣고 싶다면 Agent Motion부터 시작하세요
 
 **소개 영상을 보고 찾아오셨고 자신의 토크 영상에 모션을 넣고 싶다면, [Agent Motion](https://github.com/erduo1998-cell/agent-motion#start)을 권장합니다(영문 안내).**
